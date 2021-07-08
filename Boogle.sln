@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boogle", "Boogle\Boogle.csproj", "{2F5FD2CE-6208-4592-9FFD-ED05DECBE0DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Unitaires", "Test_Unitaires\Test_Unitaires.csproj", "{A8EACC1E-C215-4736-8D25-5088C4383A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F5FD2CE-6208-4592-9FFD-ED05DECBE0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5FD2CE-6208-4592-9FFD-ED05DECBE0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5FD2CE-6208-4592-9FFD-ED05DECBE0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5FD2CE-6208-4592-9FFD-ED05DECBE0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8EACC1E-C215-4736-8D25-5088C4383A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EACC1E-C215-4736-8D25-5088C4383A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EACC1E-C215-4736-8D25-5088C4383A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EACC1E-C215-4736-8D25-5088C4383A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A15DCA6-3FD6-4AFC-924F-BDC3122433C1}
+	EndGlobalSection
+EndGlobal
